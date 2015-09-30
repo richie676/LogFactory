@@ -1,0 +1,1 @@
+D:\dev\git\LogFactory\LogFactory\bin\Debug\LogFactory.exe.config
